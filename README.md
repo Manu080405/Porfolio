@@ -37,7 +37,6 @@
 </p>
 
 ---
-## 📂 Project Structure
 
 ## 📂 Project Structure
 
