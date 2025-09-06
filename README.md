@@ -39,20 +39,14 @@
 ---
 ## 📂 Project Structure
 
-📦 portfolio-app
-┣ 📂 public
-┃ ┣ 📂 icons # App icons (WiFi, Battery, Skills, etc.)
-┃ ┣ 📂 wallpaper # iOS wallpaper backgrounds
-┣ 📂 src
-┃ ┣ 📜 App.jsx # Main application
-┃ ┣ 📜 index.css # Styling
-┣ 📜 package.json
-┣ 📜 README.md
-
-
-
-
-
-
-
 ## 📂 Project Structure
+
+📦 **Portfolio App (iOS-style)**  
+ ┣ 🎨 **/public** → Static assets (icons, wallpapers, resume PDF)  
+ ┃ ┣ 🖼️ **/icons** → All iOS-style app & status bar icons  
+ ┃ ┣ 🌆 **/wallpaper** → iOS-inspired background wallpapers  
+ ┣ ⚛️ **/src** → React source code  
+ ┃ ┣ 📜 **App.jsx** → Main app logic (status bar, apps, dock, overlays)  
+ ┃ ┣ 🎨 **index.css** → Custom styling with glassmorphism + animations  
+ ┣ 📋 **package.json** → Project dependencies & scripts  
+ ┣ 📘 **README.md** → Project documentation  
